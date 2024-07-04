@@ -7,3 +7,5 @@ then classify them by using image segmentation. We are finally going to download
 
 * Click the link to see more:
 https://nbviewer.org/github/Shadi1988/Calculate-NDVI/blob/master/NDVI%20Notebook.ipynb
+
+* Interactive Map by using Plotly:  https://colab.research.google.com/drive/1ZgthM9eKc70r_B2MMpg90lgUBDOyakYJ
